@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <!-- 社区服刑人员基本信息统计表-->
+    <dataList sheet="0" tableName="社区服刑人员基本信息统计表月报表"  dateRow="2" startRow="7" endRow="9" skipRow="7" startCol="3" endCol="81"  hasRowHeader="false">
+    </dataList>
+
+    <!--社区矫正工作情况统计表
+    <dataList sheet="1" tableName="社区矫正工作情况统计表季报表"  dateRow="3"   startRow="11" endRow="12" skipRow="7" startCol="1" endCol="33"  hasRowHeader="false">
+    </dataList>-->
+</root>
